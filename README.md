@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img height="180" src="https://wallpaperaccess.com/full/1325192.jpg"  />
+  <img height="200" src="https://th.bing.com/th/id/OIP.sgfANV04uRrGZbJHdtVynwHaFQ?rs=1&pid=ImgDetMain"  />
 </div>
 
 ###
