@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <h3 align="left">👋 Hi there! I'm Sumit Maurya, a passionate B-Tech student specializing in Computer Science and Engineering with a focus on Data Science</h3>
 
 ###
