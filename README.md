@@ -38,7 +38,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://www.linkedin.com/in/sumit-maurya-b0a156308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://drive.google.com/file/d/1dvfFL1DgCPRRm1INdeAonU9M2W2pDL7i/view?usp=drive_link" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Striver-tech-aid/Striver-tech-aid/output/snake.svg" alt="Snake animation" />
 
 ###
 
