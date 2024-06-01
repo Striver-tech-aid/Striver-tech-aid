@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Striver-tech-aid/Striver-tech-aid/output/snake.svg" alt="Snake animation" />
+<img src="https://drive.google.com/file/d/1dvfFL1DgCPRRm1INdeAonU9M2W2pDL7i/view?usp=drive_link" alt="Snake animation" />
 
 ###
 
