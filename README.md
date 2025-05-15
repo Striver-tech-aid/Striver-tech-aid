@@ -1,15 +1,14 @@
-<h4 align="left">👋 Hello! I'm Sumit<br><br>I'm a B-Tech Computer Science student currently exploring Software Development and Web Development. I enjoy learning how technology solves real-world problems and applying my skills through hands-on projects.<br><br>🎯 Current Focus:<br>- Full-stack web development<br>- Academic and personal tech projects<br><br>🚀 Always open to collaborating, contributing to open-source, and connecting with fellow learners and developers.<br><br>📫 Feel free to explore my work or reach out!</h4>
+<h4 align="center">👋 Hello! I'm Sumit<br><br>I'm a B-Tech Computer Science student currently exploring Software Development and Web Development. I enjoy learning how technology solves real-world problems and applying my skills through hands-on projects.<br><br>🎯 Current Focus:<br>- Full-stack web development<br>- Academic and personal tech projects<br><br>🚀 Always open to collaborating, contributing to open-source, and connecting with fellow learners and developers.<br><br>📫 Feel free to explore my work or reach out!</h4>
 
 ###
 
-<div align="center">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=Striver-tech-aid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Striver-tech-aid&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Striver-tech-aid&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -37,7 +36,6 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
